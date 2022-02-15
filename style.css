@@ -1,0 +1,40 @@
+}
+@media only screen and (max-width: 56.5em)
+html {
+    font-size: 46%;
+}
+@media only screen and (max-width: 63em)
+html {
+    font-size: 49%;
+}
+html {
+    box-sizing: border-box;
+    font-size: 52%;
+    scroll-behavior: smooth;
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: initial;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+html {
+    display: block;
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: initial;
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: initial;
+}
+::selection {
+    color: white;
+    background: #c818df;
+}
